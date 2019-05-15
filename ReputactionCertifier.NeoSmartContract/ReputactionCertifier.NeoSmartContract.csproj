@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="build.tasks" />
+    <None Include="deployed-neo-smart-contract\ReputactionCertifierSmartContract-deployed-11-5-2019-v1.avm" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
